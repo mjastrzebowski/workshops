@@ -1,0 +1,27 @@
+{
+  "name": "workshops",
+  "version": "0.1.0",
+  "description": "New http://warsztaty.polishboogie.com website.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xido00/workshops.git"
+  },
+  "author": "Marcin Borkowski",
+  "bugs": {
+    "url": "https://github.com/xido00/workshops/issues"
+  },
+  "homepage": "http://dev.borkowski-film.pl/workshops",
+  "preferGlobal": "false",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "^0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-htmlmin": "~0.1.3",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-sass": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-scp": "~0.1.5"
+  }
+}

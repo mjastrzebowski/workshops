@@ -1,0 +1,12 @@
+{
+  "server": {
+    "host" : "borkowski-film.pl",
+    "port" : "",
+    "username" : "bfs",
+    "password" : "LuminArc123",
+    "path" : "/home/bfs/public_html/dev/workshops"
+  },
+  "tinypng": {
+    "key": "WlPtBIvMSICYE9yqQq8C0VnLLa6MyLli"
+  }
+}
