@@ -17,8 +17,7 @@ $("body").delegate('#workshop-form', 'submit', function() {
       'check' : check
     },
     success: function(msg) {
-      // $('#workshop-form #submit').addClass('btn-success');
-      $("#register").find( "#workshop-form #submit" ).addClass( "btn-success" );
+      $('#workshop-form #submit').val(msg.content);
       console.log(msg.content);
     }
   });

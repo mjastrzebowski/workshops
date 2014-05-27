@@ -1,0 +1,4 @@
+.DS_Store/
+tinypng.json
+node_modules/
+.sass_cache/
